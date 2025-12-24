@@ -6,6 +6,6 @@ class sum
 
     int a=0; int b=9;
     int sum =a+b;
-    System.out.println(sum);
+    System.out.println(sum+"sum of two numbers");
     }
 }
